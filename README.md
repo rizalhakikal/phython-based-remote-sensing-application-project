@@ -4,7 +4,7 @@ Here’s a polished and professional **README.md** in English for your GitHub re
 
 # 🌊 **Ocean Insights: Remote Sensing Analysis for Marine Parameters**  
 **Portfolio of Satellite-Derived Oceanographic Maps**  
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python) ![License](https://img.shields.io/badge/License-MIT-green) ![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python) ![License](https://img.shields.io/badge/License-MIT-green) ![GitHub Stars](https://img.shields.io/github/stars/https://github.com/rizalhakikal/your-repo?style=social)
 
 ---
 
@@ -107,7 +107,7 @@ print(f"Pearson's Correlation: {corr:.2f}")
 
 ## 🌱 **Contributions & License**  
 - **License**: MIT License  
-- **Contact**: [Your Email/LinkedIn] for collaboration or questions.  
+- **Contact**: [rizalhakikal@gmail.com/www.linkedin.com/in/rizalfiqrihakikal] for collaboration or questions.  
 
 ---
 
