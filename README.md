@@ -4,8 +4,7 @@ Here’s a polished and professional **README.md** in English for your GitHub re
 
 # 🌊 **Ocean Insights: Remote Sensing Analysis for Marine Parameters**  
 **Portfolio of Satellite-Derived Oceanographic Maps**  
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python) ![License](https://img.shields.io/badge/License-MIT-green) ![GitHub Stars](https://img.shields.io/github/stars/https://github.com/rizalhakikal/your-repo?style=social)
-
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python) ![License](https://img.shields.io/badge/License-MIT-green) ![GitHub Stars](https://img.shields.io/github/stars/rizalhakikal/phython-based-remote-sensing-application-project?style=social)
 ---
 
 ## 📌 **Project Overview**  
@@ -21,12 +20,12 @@ The workflow leverages Python libraries such as `xarray`, `Cartopy`, `Matplotlib
 
 ## 🌍 **Key Visualizations**  
 ### 1. Sea Surface Temperature (SST) Map  
-![SST Map](images/sst_map.png)  
+![SST Map](https://colab.research.google.com/drive/1XddRFAVqosWlRR9sUJ4bDqEr6cIAhg_Z#scrollTo=vnUpcYRVlybu&line=1&uniqifier=1)  
 *SST distribution in the Indian Ocean derived from MODIS-Aqua satellite data (4 km resolution).*  
 
 ### 2. Chlorophyll-a Concentration Map  
 ![Chlorophyll-a Map](images/chlorophyll_map.png)  
-*High chlorophyll-a concentrations (>1 mg/m³) indicate upwelling zones off the coast of Sumatra (VIIRS-SNPP data).*  
+*High chlorophyll-a concentrations (>1 mg/m³) indicate upwelling zones off the coast of Bali (VIIRS-SNPP data).*  
 
 ### 3. Ocean Surface Currents  
 ![Ocean Currents](images/currents_map.png)  
